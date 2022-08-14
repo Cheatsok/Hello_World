@@ -1,3 +1,5 @@
+.pio/
+token
 # Prerequisites
 *.d
 
